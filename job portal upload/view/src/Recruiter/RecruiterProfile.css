@@ -1,0 +1,65 @@
+.container1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.profile-container {
+    grid-column: 1/2;
+    background-color: #f0f8ff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.imagecontainer {
+    grid-column: 2/3;
+    padding: 20px;
+    margin: 20px;
+}
+
+.profile-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.detail {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    
+}
+
+.icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.content h4 {
+    margin: 0;
+}
+
+.content p {
+    margin: 5px 0;
+}
+img
+{
+    float:left;
+    border-radius:50%;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center; /* Align items vertically */
+}
+
+.profile-header img {
+    margin-right: 10px; /* Adjust spacing between image and text */
+}
+.con
+{
+    color:rgb(73, 44, 128);
+    
+}

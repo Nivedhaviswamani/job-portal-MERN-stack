@@ -1,0 +1,12 @@
+.skills-list {
+    display: flex;
+    flex-direction: column;
+    float:left;
+}
+.btn
+{
+    width:30%;
+    height:30px;
+    color:white;
+    background-color: red;
+}
