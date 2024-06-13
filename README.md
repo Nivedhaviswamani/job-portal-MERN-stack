@@ -53,9 +53,9 @@ Developed a secure job portal website using the MERN stack, designed to streamli
 5. **Access the application**: Open your browser and go to `http://localhost:3000`.
 
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+-Nivedha V.
 
 ## License
-This project is licensed under the MIT License -Nivedha V.
+This project is licensed under the MIT License 
 
 ---
