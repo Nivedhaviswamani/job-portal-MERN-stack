@@ -52,7 +52,7 @@ Developed a secure job portal website using the MERN stack, designed to streamli
 
 5. **Access the application**: Open your browser and go to `http://localhost:3000`.
 
-## Contributing
+## Contributors
 -Nivedha V.
 
 ## License
